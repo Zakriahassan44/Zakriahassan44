@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Muhammad Zakria 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Zakria+%F0%9F%91%8B;Flutter+Developer+%7C+Mobile+App+Engineer;Android+%26+iOS+%7C+Clean+Architecture;5%2B+Live+Apps+on+Play+Store+%26+App+Store" alt="Typing SVG" />
 
-### Flutter Developer | Mobile Application Engineer (Android & iOS)
-
-I build production-grade cross-platform apps — 5 shipped to Play Store & App Store, including a commercial logistics app for a Germany-based client.
+I build production-grade cross-platform apps — 5 shipped to **both Google Play & App Store**, including a commercial logistics app for a Germany-based client.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zakria-9006a0292)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakriahassan44)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzakria576@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Zakriahassan44&color=02569B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -32,27 +32,67 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,androidstudio,figma,vscode&theme=dark" alt="Skill Icons" />
 
 </div>
 
-| Category | Stack |
-|---|---|
-| **Language** | Dart |
-| **Framework** | Flutter (Android & iOS) |
-| **State Management** | Provider, GetX |
-| **Architecture** | Clean Architecture, MVVM, MVC, Repository Pattern |
-| **Backend & Cloud** | Firebase (Auth, Firestore, Cloud Messaging), Supabase, REST APIs |
-| **Tools & Libraries** | Git, GitHub, Google ML Kit, FFmpeg |
-| **Practices** | Agile/Scrum, Code Review, Responsive UI, App Store & Play Store Deployment |
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**📱 Mobile**
+- Flutter (Android & iOS)
+- Dart (Null Safety)
+- Responsive UI / ScreenUtil
+
+</td>
+<td valign="top" width="33%">
+
+**🧠 State & Architecture**
+- Provider, GetX
+- Clean Architecture
+- MVVM, MVC
+- Repository Pattern
+- SOLID Principles
+
+</td>
+<td valign="top" width="33%">
+
+**☁️ Backend & Cloud**
+- Firebase (Auth, Firestore, FCM)
+- Supabase
+- REST APIs / JSON
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**🧰 Tools & Libraries**
+- Git & GitHub
+- Google ML Kit
+- FFmpeg
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Practices**
+- Agile / Scrum
+- Code Review
+- CI/CD basics
+- App Store & Play Store Deployment
+
+</td>
+<td valign="top" width="33%">
+
+**📈 Currently Learning**
+- System Design
+- Backend Development
+- Riverpod & Bloc
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,11 +100,11 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 
 | App | Description | Platform |
 |---|---|---|
-| **Haro GmbH** (Germany, Int'l Client) | Logistics app for newspaper delivery personnel — zone & route management | Google Play |
-| **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | Google Play |
-| **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | App Store |
-| **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | App Store |
-| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | App Store |
+| **Haro GmbH** (Germany, Int'l Client) | Logistics app for newspaper delivery personnel — zone & route management | Google Play • App Store |
+| **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | Google Play • App Store |
+| **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | Google Play • App Store |
+| **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | Google Play • App Store |
+| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | Google Play • App Store |
 | **AK Health Care Center** *(Final Year Project)* | Appointment scheduling, Google Places API, Firebase Auth + Firestore | Academic Project |
 
 ---
@@ -96,10 +136,16 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 <div align="center">
 
-![Zakria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakriahassan44&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakriahassan44&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Zakriahassan44&show_icons=true&theme=tokyonight&hide_border=true" alt="Zakria's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakriahassan44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakriahassan44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zakriahassan44&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
+
+> ⚠️ **Note:** These widgets only render once this file is saved as `README.md` inside a **public repository named exactly `Zakriahassan44`** (matching your GitHub username). GitHub auto-detects this special repo and displays its README on your profile page.
 
 ---
 
