@@ -91,8 +91,7 @@ Every production app I ship follows a strict **Clean Architecture + MVVM** layer
 **⚙️ Practices**
 - Agile / Scrum
 - Code Review
-- CI/CD basics
-- App Store & Play Store Deployment
+
 
 </td>
 <td valign="top" width="33%">
