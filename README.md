@@ -18,17 +18,50 @@ I build production-grade cross-platform apps — 5 shipped to **both Google Play
 
 I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro Tech Code Park**, building Clean-Architecture-based Android/iOS apps used by real clients in production.
 
--  Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
--  Open to relocation across **Gulf countries** and remote-first international teams
--  Shipped **5 live applications** across Google Play & Apple App Store
--  CS Graduate (2024), Islamia College University Peshawar
--  Currently deepening my knowledge in **system design** and **backend development**
--  I also create educational Flutter content for ~20K followers on Facebook
--  Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
+- 🔭 Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
+- 🌍 Open to relocation across **Gulf countries** and remote-first international teams
+- 📱 Shipped **5 live applications** across Google Play & Apple App Store
+- 🎓 CS Graduate (2024), Islamia College University Peshawar
+- 🧠 Currently deepening my knowledge in **system design** and **backend development**
+- ✍️ I also create educational Flutter content for ~20K followers on Facebook
+- 🎯 Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ How I Architect My Apps
+
+Every production app I ship follows a strict **Clean Architecture + MVVM** layering — this is what keeps a 50-screen app maintainable at month 12, not just month 1.
+
+```mermaid
+flowchart TD
+    UI["🎨 Presentation Layer<br/>Widgets · Screens · Provider/GetX Controllers"]
+    DOMAIN["🧠 Domain Layer<br/>Entities · Use Cases · Repository Interfaces"]
+    DATA["💾 Data Layer<br/>Repository Impl · Remote/Local Data Sources"]
+    EXT["☁️ External<br/>Firebase · REST APIs · Supabase · Device APIs"]
+
+    UI -->|"calls"| DOMAIN
+    DOMAIN -->|"depends on abstraction"| DATA
+    DATA -->|"implements"| EXT
+
+    style UI fill:#02569B,stroke:#fff,color:#fff
+    style DOMAIN fill:#0175C2,stroke:#fff,color:#fff
+    style DATA fill:#13B9FD,stroke:#fff,color:#000
+    style EXT fill:#FFCA28,stroke:#000,color:#000
+```
+
+**Why this matters:** the Domain layer never knows Firebase exists. Swap Firebase for Supabase, or REST for GraphQL, and the UI + business logic don't change — only the Data layer's implementation does. That's the difference between a demo app and a production app a team can maintain for years.
+
+---
+
+## 💡 What I Bring to a Team
+
+| Area | What that looks like in practice |
+|---|---|
+| **Scalable Architecture** | Feature-first folder structure, Clean Architecture layers, SOLID principles applied to real screens — not just theory |
+| **Cross-border Delivery** | Shipped and maintained a live app for a Germany-based client (Haro GmbH) — comfortable with async, remote-team communication |
+| **Full App Lifecycle** | Have taken apps from Firebase setup → REST integration → Play Store & App Store submission, solo |
+| **Teaching & Communication** | 6 months as an IT Instructor + educational content creator — I can explain technical decisions clearly to non-technical stakeholders |
+| **Performance Mindset** | Reduce unnecessary widget rebuilds via Provider scoping, optimize FFmpeg video processing, on-device ML inference tuning |
 
 <div align="center">
 
@@ -51,7 +84,9 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 **🧠 State & Architecture**
 - Provider, GetX
 - Clean Architecture
--  MVC
+- MVVM, MVC
+- Repository Pattern
+- SOLID Principles
 
 </td>
 <td valign="top" width="33%">
@@ -66,7 +101,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 <tr>
 <td valign="top" width="33%">
 
-** Tools & Libraries**
+**🧰 Tools & Libraries**
 - Git & GitHub
 - Google ML Kit
 - FFmpeg
@@ -74,7 +109,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 </td>
 <td valign="top" width="33%">
 
-** Practices**
+**⚙️ Practices**
 - Agile / Scrum
 - Code Review
 - CI/CD basics
@@ -83,7 +118,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 </td>
 <td valign="top" width="33%">
 
-** Currently Learning**
+**📈 Currently Learning**
 - System Design
 - Backend Development
 - Riverpod & Bloc
@@ -102,7 +137,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 | **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | Google Play • App Store |
 | **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | Google Play • App Store |
 | **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | Google Play • App Store |
-| ** MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | Google Play • App Store |
+| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | Google Play • App Store |
 | **AK Health Care Center** *(Final Year Project)* | Appointment scheduling, Google Places API, Firebase Auth + Firestore | Academic Project |
 
 ---
@@ -130,6 +165,29 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakriahassan44&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🗺️ Career Roadmap
+
+- [x] Ship first production Flutter app to Play Store & App Store
+- [x] Deliver a commercial app for an international (Germany-based) client
+- [x] Work across Clean Architecture, MVVM & Repository Pattern in production
+- [ ] Master system design fundamentals (scalability, caching, load balancing)
+- [ ] Build a full backend service (Node.js/Firebase Functions) to pair with Flutter apps
+- [ ] Contribute to an open-source Flutter package
+- [ ] Land a Senior Flutter Engineer role in a Gulf country
+- [ ] Launch my own software product/company
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -147,7 +205,54 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 ---
 
-## 📫 Let's Connect
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Zakriahassan44/Zakriahassan44/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+<details>
+<summary><b>⚙️ One-time setup to activate this (click to expand)</b></summary>
+
+<br>
+
+This animated snake "eats" your contribution graph and needs one GitHub Action, run once:
+
+1. In your `Zakriahassan44/Zakriahassan44` repo, create `.github/workflows/snake.yml`
+2. Paste this workflow:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Zakriahassan44
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit → the Action runs automatically and generates the `output` branch with the SVG
+4. The image above will then render correctly on your live profile
+
+</details>
+
+---
 
 <div align="center">
 
