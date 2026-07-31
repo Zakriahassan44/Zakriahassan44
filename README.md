@@ -150,49 +150,7 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakriahassan44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
-</div>
 
-
-
-</div>
-
-<details>
-
-<br>
-
-This animated snake "eats" your contribution graph and needs one GitHub Action, run once:
-
-1. In your `Zakriahassan44/Zakriahassan44` repo, create `.github/workflows/snake.yml`
-2. Paste this workflow:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Zakriahassan44
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit → the Action runs automatically and generates the `output` branch with the SVG
-4. The image above will then render correctly on your live profile
-
-</details>
 
 ---
 
