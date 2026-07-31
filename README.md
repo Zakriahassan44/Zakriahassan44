@@ -58,13 +58,13 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 
 ## 🚀 Live Published Applications
 
-| App | Description | Link |
+| App | Description | Platform |
 |---|---|---|
-| **Haro GmbH** (Germany, Int'l Client) | Logistics app for newspaper delivery personnel — zone & route management | [Google Play] [App Store] |
-| **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | [Google Play] [App Store]|
-| **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | [Google Play] [App Store] |
-| **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | [Google Play] [App Store]|
-| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | [App Store] |
+| **Haro GmbH** (Germany, Int'l Client) | Logistics app for newspaper delivery personnel — zone & route management | Google Play |
+| **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | Google Play |
+| **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | App Store |
+| **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | App Store |
+| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | App Store |
 | **AK Health Care Center** *(Final Year Project)* | Appointment scheduling, Google Places API, Firebase Auth + Firestore | Academic Project |
 
 ---
