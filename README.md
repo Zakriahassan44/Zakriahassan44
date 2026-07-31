@@ -4,7 +4,7 @@ Flutter Developer | Mobile Application Developer | Firebase Specialist
 ---
 
 ## About Me  
-I am a Flutter Developer with 2+ years of experience building high-performance cross-platform mobile applications for Android and iOS. I specialize in creating scalable, user-friendly solutions using modern development practices and clean architecture.  
+I am a Flutter Developer with 15+ months of experience building high-performance cross-platform mobile applications for Android and iOS. I specialize in creating scalable, user-friendly solutions using modern development practices and clean architecture.  
 
 I have hands-on experience with REST API integration, Firebase services, and performance optimization, and I am continuously learning advanced Flutter concepts, video processing, and AI integration.  
 
