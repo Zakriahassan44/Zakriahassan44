@@ -147,12 +147,9 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zakriahassan44&show_icons=true&theme=tokyonight&hide_border=true" alt="Zakria's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakriahassan44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakriahassan44&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zakriahassan44&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
