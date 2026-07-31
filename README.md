@@ -153,14 +153,11 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 </div>
 
-> ⚠️ **Note:** These widgets only render once this file is saved as `README.md` inside a **public repository named exactly `Zakriahassan44`** (matching your GitHub username). GitHub auto-detects this special repo and displays its README on your profile page.
-
 
 
 </div>
 
 <details>
-<summary><b>⚙️ One-time setup to activate this (click to expand)</b></summary>
 
 <br>
 
