@@ -18,42 +18,23 @@ I build production-grade cross-platform apps — 5 shipped to **both Google Play
 
 I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro Tech Code Park**, building Clean-Architecture-based Android/iOS apps used by real clients in production.
 
-- 🔭 Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
-- 🌍 Open to relocation across **Gulf countries** and remote-first international teams
-- 📱 Shipped **5 live applications** across Google Play & Apple App Store
-- 🎓 CS Graduate (2024), Islamia College University Peshawar
-- 🧠 Currently deepening my knowledge in **system design** and **backend development**
-- ✍️ I also create educational Flutter content for ~20K followers on Facebook
-- 🎯 Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
+-  Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
+-  Open to relocation across **Gulf countries** and remote-first international teams
+-  Shipped **5 live applications** across Google Play & Apple App Store
+-  CS Graduate (2024), Islamia College University Peshawar
+-  Currently deepening my knowledge in **system design** and **backend development**
+-  I also create educational Flutter content for ~20K followers on Facebook
+-  Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
 
 ---
 
-## 🏗️ How I Architect My Apps
+##  How I Architect My Apps
 
 Every production app I ship follows a strict **Clean Architecture + MVVM** layering — this is what keeps a 50-screen app maintainable at month 12, not just month 1.
 
-```mermaid
-flowchart TD
-    UI["🎨 Presentation Layer<br/>Widgets · Screens · Provider/GetX Controllers"]
-    DOMAIN["🧠 Domain Layer<br/>Entities · Use Cases · Repository Interfaces"]
-    DATA["💾 Data Layer<br/>Repository Impl · Remote/Local Data Sources"]
-    EXT["☁️ External<br/>Firebase · REST APIs · Supabase · Device APIs"]
 
-    UI -->|"calls"| DOMAIN
-    DOMAIN -->|"depends on abstraction"| DATA
-    DATA -->|"implements"| EXT
 
-    style UI fill:#02569B,stroke:#fff,color:#fff
-    style DOMAIN fill:#0175C2,stroke:#fff,color:#fff
-    style DATA fill:#13B9FD,stroke:#fff,color:#000
-    style EXT fill:#FFCA28,stroke:#000,color:#000
-```
-
-**Why this matters:** the Domain layer never knows Firebase exists. Swap Firebase for Supabase, or REST for GraphQL, and the UI + business logic don't change — only the Data layer's implementation does. That's the difference between a demo app and a production app a team can maintain for years.
-
----
-
-## 💡 What I Bring to a Team
+##  What I Bring to a Team
 
 | Area | What that looks like in practice |
 |---|---|
@@ -85,8 +66,6 @@ flowchart TD
 - Provider, GetX
 - Clean Architecture
 - MVVM, MVC
-- Repository Pattern
-- SOLID Principles
 
 </td>
 <td valign="top" width="33%">
@@ -129,18 +108,6 @@ flowchart TD
 
 ---
 
-## 🚀 Live Published Applications
-
-| App | Description | Platform |
-|---|---|---|
-| **Haro GmbH** (Germany, Int'l Client) | Logistics app for newspaper delivery personnel — zone & route management | Google Play • App Store |
-| **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | Google Play • App Store |
-| **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | Google Play • App Store |
-| **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | Google Play • App Store |
-| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | Google Play • App Store |
-| **AK Health Care Center** *(Final Year Project)* | Appointment scheduling, Google Places API, Firebase Auth + Firestore | Academic Project |
-
----
 
 ## 💼 Experience
 
@@ -175,18 +142,6 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 ---
 
-## 🗺️ Career Roadmap
-
-- [x] Ship first production Flutter app to Play Store & App Store
-- [x] Deliver a commercial app for an international (Germany-based) client
-- [x] Work across Clean Architecture, MVVM & Repository Pattern in production
-- [ ] Master system design fundamentals (scalability, caching, load balancing)
-- [ ] Build a full backend service (Node.js/Firebase Functions) to pair with Flutter apps
-- [ ] Contribute to an open-source Flutter package
-- [ ] Land a Senior Flutter Engineer role in a Gulf country
-- [ ] Launch my own software product/company
-
----
 
 ## 📊 GitHub Stats
 
@@ -203,13 +158,7 @@ Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Develo
 
 > ⚠️ **Note:** These widgets only render once this file is saved as `README.md` inside a **public repository named exactly `Zakriahassan44`** (matching your GitHub username). GitHub auto-detects this special repo and displays its README on your profile page.
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Zakriahassan44/Zakriahassan44/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
