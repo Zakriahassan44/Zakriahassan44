@@ -18,13 +18,13 @@ I build production-grade cross-platform apps — 5 shipped to **both Google Play
 
 I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro Tech Code Park**, building Clean-Architecture-based Android/iOS apps used by real clients in production.
 
-- 🔭 Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
-- 🌍 Open to relocation across **Gulf countries** and remote-first international teams
-- 📱 Shipped **5 live applications** across Google Play & Apple App Store
-- 🎓 CS Graduate (2024), Islamia College University Peshawar
-- 🧠 Currently deepening my knowledge in **system design** and **backend development**
-- ✍️ I also create educational Flutter content for ~20K followers on Facebook
-- 🎯 Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
+-  Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
+-  Open to relocation across **Gulf countries** and remote-first international teams
+-  Shipped **5 live applications** across Google Play & Apple App Store
+-  CS Graduate (2024), Islamia College University Peshawar
+-  Currently deepening my knowledge in **system design** and **backend development**
+-  I also create educational Flutter content for ~20K followers on Facebook
+-  Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
 
 ---
 
@@ -51,9 +51,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 **🧠 State & Architecture**
 - Provider, GetX
 - Clean Architecture
-- MVVM, MVC
-- Repository Pattern
-- SOLID Principles
+-  MVC
 
 </td>
 <td valign="top" width="33%">
@@ -68,7 +66,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 <tr>
 <td valign="top" width="33%">
 
-**🧰 Tools & Libraries**
+** Tools & Libraries**
 - Git & GitHub
 - Google ML Kit
 - FFmpeg
@@ -76,7 +74,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 </td>
 <td valign="top" width="33%">
 
-**⚙️ Practices**
+** Practices**
 - Agile / Scrum
 - Code Review
 - CI/CD basics
@@ -85,7 +83,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 </td>
 <td valign="top" width="33%">
 
-**📈 Currently Learning**
+** Currently Learning**
 - System Design
 - Backend Development
 - Riverpod & Bloc
@@ -104,7 +102,7 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 | **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | Google Play • App Store |
 | **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | Google Play • App Store |
 | **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | Google Play • App Store |
-| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | Google Play • App Store |
+| ** MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | Google Play • App Store |
 | **AK Health Care Center** *(Final Year Project)* | Appointment scheduling, Google Places API, Firebase Auth + Firestore | Academic Project |
 
 ---
