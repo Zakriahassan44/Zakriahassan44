@@ -28,21 +28,6 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 
 ---
 
-##  How I Architect My Apps
-
-Every production app I ship follows a strict **Clean Architecture + MVVM** layering — this is what keeps a 50-screen app maintainable at month 12, not just month 1.
-
-
-
-##  What I Bring to a Team
-
-| Area | What that looks like in practice |
-|---|---|
-| **Scalable Architecture** | Feature-first folder structure, Clean Architecture layers, SOLID principles applied to real screens — not just theory |
-| **Cross-border Delivery** | Shipped and maintained a live app for a Germany-based client (Haro GmbH) — comfortable with async, remote-team communication |
-| **Full App Lifecycle** | Have taken apps from Firebase setup → REST integration → Play Store & App Store submission, solo |
-| **Teaching & Communication** | 6 months as an IT Instructor + educational content creator — I can explain technical decisions clearly to non-technical stakeholders |
-| **Performance Mindset** | Reduce unnecessary widget rebuilds via Provider scoping, optimize FFmpeg video processing, on-device ML inference tuning |
 
 <div align="center">
 
