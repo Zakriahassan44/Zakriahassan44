@@ -1,101 +1,116 @@
-# Muhammad Zakria  
-Flutter Developer | Mobile Application Developer | Firebase Specialist  
+<div align="center">
+
+# Hi, I'm Muhammad Zakria 👋
+
+### Flutter Developer | Mobile Application Engineer (Android & iOS)
+
+I build production-grade cross-platform apps — 5 shipped to Play Store & App Store, including a commercial logistics app for a Germany-based client.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zakria-9006a0292)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakriahassan44)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzakria576@gmail.com)
+
+</div>
 
 ---
 
-## About Me  
-I am a Flutter Developer with 15+ months of experience building high-performance cross-platform mobile applications for Android and iOS. I specialize in creating scalable, user-friendly solutions using modern development practices and clean architecture.  
+## 🧭 About Me
 
-I have hands-on experience with REST API integration, Firebase services, and performance optimization, and I am continuously learning advanced Flutter concepts, video processing, and AI integration.  
+I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro Tech Code Park**, building Clean-Architecture-based Android/iOS apps used by real clients in production.
 
----
-
-## Skills  
-
-**Mobile Development**  
-Flutter, Dart, Cross-Platform Application Development  
-
-**State Management**  
-Provider, GetX, Riverpod  
-
-**Backend & APIs**  
-REST API Integration, JSON Parsing, Firebase (Authentication, Firestore, Cloud Messaging, Storage)  
-
-**Architecture & Practices**  
-Clean Architecture, MVVM, MVC, Performance Optimization, Responsive UI  
-
-**Tools & Technologies**  
-Git, GitHub, CI/CD, FFmpeg  
+- 🔭 Currently building scalable Flutter apps with **Provider + Clean Architecture + Firebase**
+- 🌍 Open to relocation across **Gulf countries** and remote-first international teams
+- 📱 Shipped **5 live applications** across Google Play & Apple App Store
+- 🎓 CS Graduate (2024), Islamia College University Peshawar
+- 🧠 Currently deepening my knowledge in **system design** and **backend development**
+- ✍️ I also create educational Flutter content for ~20K followers on Facebook
+- 🎯 Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
 
 ---
 
-## Projects  
+## 🛠️ Tech Stack
 
-### Video Subtitle Translator  
-A cross-platform mobile application that extracts and translates text from video streams in real time using Google ML Kit. Optimized for low latency and multi-language support.  
+<div align="center">
 
-### DHA Peshawar Facilitation App  
-A complaint management and society service application built with Flutter, REST APIs, and Firebase. Includes push notifications and role-based access control.  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### GIF & Watermarks to Video  
-A video processing application using FFmpeg for adding dynamic watermarks and GIF overlays with real-time preview functionality.  
+</div>
 
-### EML & MSG File Opener  
-A utility application for parsing and viewing email files with attachment support and PDF export functionality.  
-
-### AK Health Care Center  
-A healthcare application featuring appointment scheduling, Firebase authentication, and Google Places API integration.  
-
----
-
-## Experience  
-
-**Flutter Developer**  
-Pro Tech Code Park | Mar 2026 – Present  
-
-- Developing scalable cross-platform applications using Flutter  
-- Implementing state management and clean architecture  
-- Integrating REST APIs and Firebase services  
-- Maintaining code quality through testing and CI/CD  
-
-**Flutter Developer**  
-Code Stars (SMC-Private) Limited | Jun 2024 – May 2025  
-
-- Built and optimized mobile applications using Flutter and Firebase  
-- Improved app performance and reduced load time  
-- Delivered features in Agile development cycles  
-
-**IT Instructor & Administrative Assistant**  
-NCST Mardan | Jul 2025 – Dec 2025  
-
-- Taught mobile app development and software engineering concepts  
-- Mentored students and managed technical documentation  
+| Category | Stack |
+|---|---|
+| **Language** | Dart |
+| **Framework** | Flutter (Android & iOS) |
+| **State Management** | Provider, GetX |
+| **Architecture** | Clean Architecture, MVVM, MVC, Repository Pattern |
+| **Backend & Cloud** | Firebase (Auth, Firestore, Cloud Messaging), Supabase, REST APIs |
+| **Tools & Libraries** | Git, GitHub, Google ML Kit, FFmpeg |
+| **Practices** | Agile/Scrum, Code Review, Responsive UI, App Store & Play Store Deployment |
 
 ---
 
-## Education  
+## 🚀 Live Published Applications
 
-Bachelor of Science in Computer Science  
-Islamia College University Peshawar | 2020 – 2024  
-
----
-
-## Certifications  
-
-- IoT (Internet of Things) – Islamia College University Peshawar (NAVTTC)  
-- Flutter Mobile Application Development – Dr. Angela Yu (Udemy)  
-
----
-
-## Contact  
-
-Email: kzakria576@gmail.com  
-Phone: +92-3149065865  
-GitHub: https://github.com/Zakriahassan44  
-LinkedIn: https://www.linkedin.com/in/muhammad-zakria-9006a0292/  
+| App | Description | Link |
+|---|---|---|
+| **Haro GmbH** (Germany, Int'l Client) | Logistics app for newspaper delivery personnel — zone & route management | [Google Play] [App Store] |
+| **DHA Peshawar Facilitation App** | Complaint management + society services, REST API, Firebase push, role-based access | [Google Play] [App Store]|
+| **Video Subtitle Translator** | Real-time on-device text extraction & translation using Google ML Kit | [Google Play] [App Store] |
+| **GifMarkr — GIF & Watermark Video** | FFmpeg-powered video watermarking/GIF overlay with background processing | [Google Play] [App Store]|
+| **MailVault — MSG & EML Viewer** | Parses EML/MSG email files with attachments + PDF export | [App Store] |
+| **AK Health Care Center** *(Final Year Project)* | Appointment scheduling, Google Places API, Firebase Auth + Firestore | Academic Project |
 
 ---
 
-## Goal  
+## 💼 Experience
 
-To build impactful mobile applications, contribute to innovative projects, and grow as a professional software developer in a challenging environment.
+**Flutter Developer** — Pro Tech Code Park `Mar 2026 – Present`
+- Building modular, scalable Android/iOS apps using Clean Architecture
+- Integrating Firebase Auth, Firestore, and Push Notifications via reusable service layers
+- Applying Provider state management to reduce unnecessary widget rebuilds
+
+**IT Instructor & Administrative Assistant** — NCST Mardan `Jul 2025 – Dec 2025`
+- Taught mobile app development to DIT batches; translated technical concepts for beginners
+
+**Flutter Developer** — Code Stars (SMC-Private) Limited `Jun 2024 – May 2025`
+- Delivered enterprise-level cross-platform apps under senior engineer supervision
+- Integrated REST APIs and refactored state management for performance & maintainability
+
+---
+
+## 🎓 Education
+
+**BS Computer Science** — Islamia College University Peshawar `2020 – 2024`
+Coursework: Data Structures, Algorithms, Software Engineering, Mobile App Development, Database Systems, Computer Networks
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Zakria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakriahassan44&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakriahassan44&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zakria-9006a0292)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakriahassan44)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzakria576@gmail.com)
+
+*Open to Flutter roles across Gulf countries and remote-first international teams.*
+
+</div>
