@@ -23,7 +23,6 @@ I'm a Flutter Developer based in Peshawar, Pakistan, currently working at **Pro 
 -  Shipped **5 live applications** across Google Play & Apple App Store
 -  CS Graduate (2024), Islamia College University Peshawar
 -  Currently deepening my knowledge in **system design** and **backend development**
--  I also create educational Flutter content for ~20K followers on Facebook
 -  Long-term goal: become a Senior/Staff Flutter Engineer and eventually start my own software company
 
 ---
